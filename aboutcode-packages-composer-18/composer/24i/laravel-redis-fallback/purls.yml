@@ -1,0 +1,4 @@
+- pkg:composer/24i/laravel-redis-fallback@1.3.0
+- pkg:composer/24i/laravel-redis-fallback@1.2.0
+- pkg:composer/24i/laravel-redis-fallback@1.1.0
+- pkg:composer/24i/laravel-redis-fallback@1.0.0
