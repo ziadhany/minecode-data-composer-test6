@@ -1,0 +1,3 @@
+- pkg:composer/1cool/laravel-auditing-elasticsearch@2.0
+- pkg:composer/1cool/laravel-auditing-elasticsearch@v1.1
+- pkg:composer/1cool/laravel-auditing-elasticsearch@v1.0
